@@ -29,7 +29,7 @@ const BtnClick = (props) => {
 
   return (
     <button onClick={fetchApi} className='BoxCalcule'>
-      Calculate your Chance
+      Calculate Love %
     </button>
   );
 };
